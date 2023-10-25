@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kami-I
+- 👋 Hi, I’m @SboneloNje
 - 👀 I’m interested in software development with a specific focus on Python and Javascript.
 
 - 🌱 I’m currently learning the Django & React Frameworks to enable myself to build websites fast.
@@ -9,6 +9,6 @@
 -
 
 <!---
-Kami-I/Kami-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
